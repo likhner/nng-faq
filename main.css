@@ -2,9 +2,9 @@ html {
     -webkit-font-smoothing: antialiased;
 }
 body {
-    background: #fff;
+    background: #1e1e1e;
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.05);
-    color: #545454;
+    color: #fff;
     font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
     font-size: 16px;
     line-height: 1.5;
@@ -13,7 +13,7 @@ body {
     padding: 2em 2em 4em;
 }
 h1, h2 {
-    color: #222;
+    color: #fff;
     font-weight: 600;
     line-height: 1.3;
 }
